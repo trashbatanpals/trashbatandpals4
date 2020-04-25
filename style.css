@@ -1,0 +1,248 @@
+
+body {
+ background-image: url("background.png");
+ background-color: pink;
+}
+
+@font-face {
+    font-family: 'groboldregular';
+    src: url('grobold-webfont.woff2') format('woff2'),
+         url('grobold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.container-fluid {
+text-align: center;
+}
+
+
+/*Navbar*/
+
+.navbar {
+  padding:0 0 4.3rem;
+
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.link-top {
+  font-family: "groboldregular";
+  color: white;
+
+}
+
+/*landing H1*/
+
+.tbandp1-title {
+  font-family: "groboldregular";
+  color: black;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1.5;
+  }
+
+  .tbandp2-title {
+    font-family: "groboldregular";
+    color: black;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-bottom: 1%;
+  }
+
+  .tbandp3-title {
+    font-family: "groboldregular";
+    color: black;
+    font-weight: bold;
+  }
+
+/*image*/
+.image-header {
+  width:46%;
+  text-align: center;
+}
+
+/*Merch features*/
+
+#Merch {
+  padding:2% 5%;
+  background-color: white;
+  text-align: center;
+}
+
+.pricing-col{
+  padding:3% 2%;
+}
+
+.cardone {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #ff3399;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.cardtwo {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #66cc66;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.cardthree {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #6633ff;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.tshirt{
+  width: 80%;
+}
+
+  .classybtn2{
+    font-family: "groboldregular";
+    border-color: black;
+    color: black;
+
+  }
+
+
+/*Meme*/
+
+
+#meme {
+  text-align: center;
+  padding:2% 5%;
+  background-color: #6633ff;
+  background-image: url("background.png");
+}
+
+h2 {
+
+}
+
+.image-two{
+  width: 10%;
+  margin: 20px;
+}
+
+.carousel-item{
+    padding:2% 15% 2%;
+}
+
+.caropromo{
+  height: 500px;
+  width: auto;
+  text-align: center;
+
+}
+
+/*instagramfeed*/
+
+#instagramfeed {
+padding:2% 5%;
+ background-color: white;
+}
+
+/*twitch*/
+
+#twitch {
+  padding:2% 5%;
+  text-align: center;
+  background-color: white;
+}
+
+
+/*Navbar Landing*/
+
+.nvfont {
+ text-align: left;
+ width:25%;
+}
+
+
+/*episode*/
+#episode{
+  padding:2% 5%;
+  text-align: center;
+  background-color: white;
+  background-image: url("background.png");
+}
+
+
+.tbandp-title {
+  font-family: "groboldregular";
+  color: black;
+  font-weight: bold;
+  font-size: 4rem;
+  line-height: 1.5;
+  }
+
+.tbandp-title:hover {
+  color: black;
+}
+
+/* title image episode */
+
+.image-one {
+  width:18%;
+  text-align: center;
+}
+
+.episode{
+  padding-top: 2%;
+  left:3%;
+
+}
+
+.image-two {
+width:98%;
+text-align: center;
+right: 3%;
+padding-top:8%;
+}
+
+/* Download Buttons */
+
+.btnme {
+  margin: 5% 3% 5% 0;
+  }
+
+  .classybtn {
+    font-family: helvetica;
+
+  }
+
+/* Footer */
+
+
+
+#footer {
+  padding:2% 15% 2%;
+  background-color:white;
+  text-align: center;
+  }
+
+.icon-two {
+  margin: 0px 10px 20px;
+  color: black;
+}
+
+.icon-two:hover {
+ color: grey;
+
+}
+
+.link-color {
+  color: black;
+}
